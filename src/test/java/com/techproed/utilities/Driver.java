@@ -1,5 +1,6 @@
 package com.techproed.utilities;
 
+import com.techproed.pages.KaolaMainPage1;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
